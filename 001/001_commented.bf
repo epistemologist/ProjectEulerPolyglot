@@ -17,4 +17,7 @@
 [>[->+>+<<]>[-<+>]<<-] // multiply
 >[-]<<<< // clear all other cells in tape
 [-]<[-]>>>>>>>[<<<<<<<+>+>>>>>>-]<<<<<<[>>>>>>+<<<<<<-]< // copy 15*33*67 to second cell in tape
-[-<->]<. // subtract first and second value on tape and output
+[-<->]< // subtract first and second value on tape and output
+>>>>>>>>[-]<<<<<<<< // clear tape
+[>>+>+<<<-]>>>[<<<+>>>-]<<+>[<->[>++++++++++<[->-[>+>>]>[+[-<+>]>+>>]<<<<<]>[-]
+  ++++++++[<++++++>-]>[<<+>>-]>[<<+>>-]<<]>]<[->>++++++++[<++++++>-]]<[.[-]<]<  // print value out (see brainfuck algorithms on esolangs dot com
