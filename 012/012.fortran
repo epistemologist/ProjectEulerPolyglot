@@ -1,0 +1,35 @@
+program main
+implicit none
+	integer :: triangle_divisors
+	integer :: n = 1
+	do while (triangle_divisors(n) < 500) 
+		n = n + 1
+	end do
+	print *, (n*(n+1))/2
+end program main
+
+integer function divisors (n) result (out)
+implicit none
+integer :: n
+integer :: i
+out = 0
+do i = 1, int(sqrt(real(n))), 1
+	if (mod(n,i) == 0) then
+		out = out+2
+	end if
+enddo
+if (int(sqrt(real(n)))**2 == n) then 
+	out = out - 1
+end if
+end function divisors
+
+integer function triangle_divisors (n) result (out)
+implicit none
+integer :: n
+integer :: divisors
+if (mod(n,2) == 0) then
+	out = divisors(n/2) * divisors(n+1)
+else
+	out = divisors(n) * divisors((n+1)/2)
+end if
+end function triangle_divisors
