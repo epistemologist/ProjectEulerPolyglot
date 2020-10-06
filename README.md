@@ -18,6 +18,7 @@
 - Problem 16: dc
 - Problem 17: Piet
 - Problem 18: Go
+- Problem 19: Lua
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
