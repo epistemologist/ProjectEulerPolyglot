@@ -10,17 +10,6 @@ function zeller(q, m, y)
 end
 
 MONTHS = {31,29,31,30,31,30,31,31,30,31,30,31}
---[[
-for year = 1, 5 do
-  for month = 1, 12 do
-    for day = 1, MONTHS[month] do
-      if not (year%4~=0 and month==2 and day==29) then
-      	print(month,day,year)
-      end
-    end
-  end
-end
---]]
 out = 0
 for year = 1901, 2000 do
   for month = 1, 12 do
