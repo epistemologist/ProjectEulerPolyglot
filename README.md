@@ -21,8 +21,10 @@
 - Problem 19: Lua
 - Problem 20: D
 - Problem 21: B
-- Problem 22: C
+- Problem 22: Awk
 - Problem 23: R
+- Problem 24: Java
+- Problem 25: Perl
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
