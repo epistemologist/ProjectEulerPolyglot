@@ -24,7 +24,6 @@
 - Problem 22: Awk
 - Problem 23: R
 - Problem 24: Java
-- Problem 25: Perl
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
