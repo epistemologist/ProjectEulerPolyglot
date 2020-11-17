@@ -35,3 +35,5 @@ sum of digits in dc from http://rosettacode.org/wiki/Sum_digits_of_an_integer#D
 Piet interpreter from https://www.bertnase.de/npiet/
 
 Piet compiler from https://github.com/sl236/Piet
+
+Project Euler 22 inspired from https://gist.github.com/aaronfeng/1143485
