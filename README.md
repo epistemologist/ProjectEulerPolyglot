@@ -1,6 +1,6 @@
 # Project Euler Polyglot
 ### Languages
-- Problem 1: Brainfuck
+- Problem 1: Brainf***
 - Problem 2: False
 - Problem 3: JSFuck
 - Problem 4: LOLCode
