@@ -26,6 +26,7 @@
 - Problem 24: Java
 - Problem 25: C
 - Problem 26: Racket
+- Problem 27: Rust
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
