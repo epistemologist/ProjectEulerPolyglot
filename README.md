@@ -27,6 +27,7 @@
 - Problem 25: C
 - Problem 26: Racket
 - Problem 27: Rust
+- Problem 28: x86 Assembly
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
