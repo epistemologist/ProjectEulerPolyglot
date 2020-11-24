@@ -29,6 +29,7 @@
 - Problem 27: Rust
 - Problem 28: x86 Assembly
 - Problem 29: J
+- Problem 30: Javascript
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
