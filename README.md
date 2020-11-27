@@ -32,6 +32,7 @@
 - Problem 30: Javascript
 - Problem 31: Haskell
 - Problem 32: C++
+- Problem 33: PHP
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
