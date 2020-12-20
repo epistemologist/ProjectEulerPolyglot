@@ -35,6 +35,7 @@
 - Problem 33: PHP
 - Problem 34: Kotlin
 - Problem 35: Python
+- Problem 36: Bash
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
