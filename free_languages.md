@@ -1,0 +1,10 @@
+- Perl (45)
+- Sage (39)
+- K
+- Pari/GP (41) 
+- Prolog
+- Clojure
+- F#
+- Julia
+- Mathematica
+-  
