@@ -37,6 +37,7 @@
 - Problem 35: Python
 - Problem 36: Bash
 - Problem 37: Julia
+- Problem 38: Mathematica 
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
 
