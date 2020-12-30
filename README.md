@@ -30,7 +30,7 @@
 - Problem 28: x86 Assembly
 - Problem 29: J
 - Problem 30: Javascript
-- Problem 31: Haskell
+- Problem 31: Sage
 - Problem 32: C++
 - Problem 33: PHP
 - Problem 34: Kotlin
