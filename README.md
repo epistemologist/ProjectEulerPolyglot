@@ -39,6 +39,7 @@
 - Problem 37: Julia
 - Problem 38: Mathematica
 - Problem 39: Haskell
+- Problem 40: sh
 
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
