@@ -40,6 +40,7 @@
 - Problem 38: Mathematica
 - Problem 39: Haskell
 - Problem 40: sh
+- Problem 41: Ruby
 
 ### Credits
 Brainfuck algorithms from https://esolangs.org/wiki/Brainfuck_algorithms
